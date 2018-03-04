@@ -1,0 +1,55 @@
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="btn-toolbar">
+    <button class="btn btn-primary">View All Tickets</button>
+    <button class="btn" routerLink="/pending">View Pending Tickets</button>
+    <button class="btn" routerLink="/accept">View Accepted Ticets</button>
+    <button class="btn" routerLink="/denied">View Denied Ticket </button>
+    
+</div>
+<div class="well">
+        <div class="well">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Employee</th>
+                            <th>Reimbursment Type</th>
+                            <th>Description</th>
+                            <th>Date Submitted</th>
+                            <th>Amount</th>
+                            <th>Date Resolved</th>
+                            <th>Resolver</th>
+                            <th>Status</th>
+                            <th>Date Resolved</th>
+            
+                            <th style="width: 36px;"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr *ngFor="let ticket of viewPastTicket">
+                            <td>{{ticket.author}}</td>
+                            <td>{{ticket.reimbursement_type_id}}</td>                            
+                            <td>{{ticket.description}}</td>
+                            <td>{{ticket.time_Submitted}}</td>
+                            <td>{{ticket.amount}}</td>
+                            <td>{{ticket.time_resolved}}</td>
+                            <td>{{ticket.resolver}}</td>
+                            <td>{{ticket.reimbursement_status_id}}</td>               
+                            
+                            <td>{{ticket.time_resolved}}</td>
+                            <div *ngIf="ticket.reimbursement_type_id == 1"><td>Lodging</td></div>
+                            <div *ngIf="ticket.reimbursement_type_id == 2"><td>Travel</td></div>
+                            <div *ngIf="ticket.reimbursement_type_id == 3"><td>Food</td></div>
+                            <div *ngIf="ticket.reimbursement_type_id == 4"><td>Other</td></div>
+            
+            
+                    </tbody>
+                </table>
+</div>
+
+<div class="modal small hide fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+</div>
+

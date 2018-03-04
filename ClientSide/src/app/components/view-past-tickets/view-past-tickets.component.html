@@ -1,0 +1,41 @@
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<div class="btn-toolbar">
+    <button class="btn btn-primary" routerLink="/reimburesment">Submit New Request</button>
+
+</div>
+<div class="well">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Reimbursment Type</th>
+                <th>Description</th>
+                <th>Amount</th>
+                <th>Date Submitted</th>
+                <th>Status</th>
+                <th>Date Resolved</th>
+
+                <th style="width: 36px;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let ticket of viewPastTicket">
+                <td>{{ticket.reimbursement_type_id}}</td>
+                <td>{{ticket.description}}</td>
+                <td>{{ticket.amount}}</td>
+                <td>{{ticket.time_Submitted}}</td>
+                <td>{{ticket. reimbursement_status_id}}</td>
+                <td>{{ticket.time_resolved}}</td>
+
+
+        </tbody>
+    </table>
+</div>
+
+<div class="modal small hide fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+
+</div>

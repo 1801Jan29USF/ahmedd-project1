@@ -1,0 +1,363 @@
+2018-02-22 20:13:09 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:13:10 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:13:11 WARN  UserDAOJDBC:64 - failed to login
+2018-02-22 20:13:41 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:13:42 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:13:42 WARN  UserDAOJDBC:64 - failed to login
+2018-02-22 20:14:23 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:14:24 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:14:25 WARN  UserDAOJDBC:64 - failed to add new user
+2018-02-22 20:15:25 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:15:27 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:15:27 WARN  UserDAOJDBC:64 - failed to add new user
+2018-02-22 20:18:11 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:18:12 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:18:13 WARN  UserDAOJDBC:63 - failed to add new user
+2018-02-22 20:19:47 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:19:48 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:19:49 WARN  UserDAOJDBC:63 - failed to add new user
+2018-02-22 20:20:29 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:20:30 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:20:31 WARN  UserDAOJDBC:63 - failed to add new user
+2018-02-22 20:22:11 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:22:12 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:22:13 DEBUG UserDAOJDBC:54 - query inserted 1 rows into the db
+2018-02-22 20:22:13 WARN  UserDAOJDBC:62 - failed to add new user
+2018-02-22 20:23:00 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:23:01 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:23:01 WARN  UserDAOJDBC:62 - failed to add new user
+2018-02-22 20:26:22 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:26:23 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:26:23 DEBUG UserDAOJDBC:54 - query inserted 1 rows into the db
+2018-02-22 20:26:23 WARN  UserDAOJDBC:62 - failed to add new user
+2018-02-22 20:30:45 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:30:46 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:30:47 DEBUG UserDAOJDBC:54 - query inserted 1 rows into the db
+2018-02-22 20:30:47 WARN  UserDAOJDBC:62 - failed to add new user
+2018-02-22 20:37:47 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:37:49 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:37:49 WARN  UserDAOJDBC:62 - failed to add new user
+2018-02-22 20:37:54 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 20:37:55 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 20:37:55 DEBUG UserDAOJDBC:54 - query inserted 1 rows into the db
+2018-02-22 20:51:00 TRACE LoginDAOJDBC:28 - Attempting to get connection to db
+2018-02-22 20:51:01 TRACE LoginDAOJDBC:30 - connection established with db
+2018-02-22 20:51:49 TRACE LoginDAOJDBC:28 - Attempting to get connection to db
+2018-02-22 20:51:50 TRACE LoginDAOJDBC:30 - connection established with db
+2018-02-22 20:54:06 TRACE LoginDAOJDBC:28 - Attempting to get connection to db
+2018-02-22 20:54:07 TRACE LoginDAOJDBC:30 - connection established with db
+2018-02-22 20:54:58 TRACE LoginDAOJDBC:28 - Attempting to get connection to db
+2018-02-22 20:54:59 TRACE LoginDAOJDBC:30 - connection established with db
+2018-02-22 20:55:18 TRACE LoginDAOJDBC:29 - Attempting to get connection to db
+2018-02-22 20:55:19 TRACE LoginDAOJDBC:31 - connection established with db
+2018-02-22 20:55:19 TRACE LoginDAOJDBC:36 - login successful
+2018-02-22 20:55:20 TRACE LoginDAOJDBC:38 - login successful
+2018-02-22 20:55:56 TRACE LoginDAOJDBC:29 - Attempting to get connection to db
+2018-02-22 20:55:57 TRACE LoginDAOJDBC:31 - connection established with db
+2018-02-22 20:55:57 TRACE LoginDAOJDBC:36 - login successful
+2018-02-22 21:06:13 TRACE UserDAOJDBC:40 - Attempting to get connection to db
+2018-02-22 21:06:14 TRACE UserDAOJDBC:42 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:06:15 WARN  UserDAOJDBC:63 - failed to add new user
+2018-02-22 21:09:26 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:09:27 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:09:27 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:10:00 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:10:01 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:10:02 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:11:44 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:11:46 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:11:46 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:12:44 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:12:45 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:12:45 WARN  UserDAOJDBC:100 - failed to add reimbursment
+2018-02-22 21:13:42 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:13:43 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:13:43 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:14:46 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:14:47 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:14:47 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:15:42 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:15:43 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:15:43 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:16:17 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:16:18 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:16:18 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:16:46 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:16:47 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:16:47 WARN  UserDAOJDBC:100 - failed to add reimbursment
+2018-02-22 21:23:14 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:23:15 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:23:15 WARN  UserDAOJDBC:99 - failed to add reimbursment
+2018-02-22 21:23:56 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:23:57 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:23:57 WARN  UserDAOJDBC:99 - failed to add reimbursment
+2018-02-22 21:25:04 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:25:05 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:25:05 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:26:01 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:26:02 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:26:02 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:26:16 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:26:17 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:26:18 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:27:49 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:27:50 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:27:50 WARN  UserDAOJDBC:102 - failed to add reimbursment
+2018-02-22 21:28:15 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:28:16 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:28:17 WARN  UserDAOJDBC:102 - failed to add reimbursment
+2018-02-22 21:28:37 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:28:38 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:28:38 WARN  UserDAOJDBC:102 - failed to add reimbursment
+2018-02-22 21:29:46 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:29:47 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:29:48 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:30:32 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:30:33 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:30:33 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:30:51 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:30:52 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:30:53 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:41:52 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:41:53 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:41:54 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:42:54 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:42:55 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:42:56 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:44:08 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:44:09 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:44:10 WARN  UserDAOJDBC:101 - failed to add reimbursment
+2018-02-22 21:44:24 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:44:25 TRACE UserDAOJDBC:78 - connection established with db, creating prepared Prep-statement
+2018-02-22 21:45:28 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:45:29 TRACE UserDAOJDBC:78 - connection established with db
+2018-02-22 21:46:11 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 21:46:12 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 21:46:40 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 21:46:41 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 21:46:42 WARN  UserDAOJDBC:102 - failed to add reimbursment
+2018-02-22 21:49:32 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 21:49:33 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 21:49:33 WARN  UserDAOJDBC:98 - failed to add reimbursment
+2018-02-22 21:51:25 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 21:51:26 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 21:51:58 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 21:51:59 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 21:56:34 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:56:35 TRACE UserDAOJDBC:78 - connection established with db
+2018-02-22 21:58:00 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:58:01 TRACE UserDAOJDBC:78 - connection established with db
+2018-02-22 21:59:22 TRACE UserDAOJDBC:76 - Attempting to get connection to db
+2018-02-22 21:59:23 TRACE UserDAOJDBC:78 - connection established with db
+2018-02-22 21:59:57 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 21:59:59 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 21:59:59 TRACE UserDAOJDBC:83 - somehing 
+2018-02-22 22:00:23 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:02:15 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:02:16 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:02:16 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:02:25 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:02:26 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:02:26 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:02:32 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:02:33 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:02:33 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:03:04 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:03:05 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:03:06 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:03:29 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:03:30 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:03:30 TRACE UserDAOJDBC:83 - somehing 
+2018-02-22 22:03:39 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:03:40 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:03:40 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:04:03 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:04:04 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:04:04 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:04:04 TRACE UserDAOJDBC:91 - somehing else 
+2018-02-22 22:04:32 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:04:33 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:04:33 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:04:33 TRACE UserDAOJDBC:91 - somehing else 
+2018-02-22 22:07:31 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:07:32 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:07:33 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:07:33 TRACE UserDAOJDBC:91 - somehing else 
+2018-02-22 22:07:58 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:07:59 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:07:59 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:07:59 TRACE UserDAOJDBC:91 - somehing else 
+2018-02-22 22:08:24 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:08:25 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:08:26 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:08:26 TRACE UserDAOJDBC:91 - somehing else 
+2018-02-22 22:10:10 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:10:11 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:10:12 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:10:12 TRACE UserDAOJDBC:91 - somehing else 
+2018-02-22 22:12:13 TRACE UserDAOJDBC:77 - Attempting to get connection to db
+2018-02-22 22:12:14 TRACE UserDAOJDBC:79 - connection established with db
+2018-02-22 22:12:14 TRACE UserDAOJDBC:84 - somehing 
+2018-02-22 22:12:14 TRACE UserDAOJDBC:91 - somehing else 
+2018-02-22 22:18:09 TRACE UserDAOJDBC:75 - Attempting to get connection to db
+2018-02-22 22:18:10 TRACE UserDAOJDBC:77 - connection established with db
+2018-02-22 22:18:10 TRACE UserDAOJDBC:82 - somehing 
+2018-02-22 22:18:10 TRACE UserDAOJDBC:89 - somehing else 
+2018-02-22 22:19:08 TRACE UserDAOJDBC:75 - Attempting to get connection to db
+2018-02-22 22:19:09 TRACE UserDAOJDBC:77 - connection established with db
+2018-02-22 22:19:10 TRACE UserDAOJDBC:82 - somehing 
+2018-02-22 22:19:10 TRACE UserDAOJDBC:89 - somehing else 
+2018-02-22 22:20:12 TRACE UserDAOJDBC:75 - Attempting to get connection to db
+2018-02-22 22:20:13 TRACE UserDAOJDBC:77 - connection established with db
+2018-02-22 22:20:13 TRACE UserDAOJDBC:82 - somehing 
+2018-02-22 22:20:13 TRACE UserDAOJDBC:89 - somehing else 
+2018-02-22 22:20:50 TRACE UserDAOJDBC:75 - Attempting to get connection to db
+2018-02-22 22:20:51 TRACE UserDAOJDBC:77 - connection established with db
+2018-02-22 22:20:51 TRACE UserDAOJDBC:82 - somehing 
+2018-02-22 22:20:51 TRACE UserDAOJDBC:89 - somehing else 
+2018-02-22 22:20:51 WARN  UserDAOJDBC:99 - failed to add reimbursment
+2018-02-22 22:21:25 TRACE UserDAOJDBC:75 - Attempting to get connection to db
+2018-02-22 22:21:26 TRACE UserDAOJDBC:77 - connection established with db
+2018-02-22 22:21:26 TRACE UserDAOJDBC:82 - somehing 
+2018-02-22 22:21:26 TRACE UserDAOJDBC:89 - somehing else 
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:93 - query inserted 1 rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:92 - query inserted 1 rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:91 - query inserted 1 rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:93 - query inserted 1 rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:91 - query inserted 1 rows into the db
+2018-02-22 22:23:56 TRACE UserDAOJDBC:91 - somehing else 
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:92 - query inserted 1 rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:93 - query inserted 1 rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:93 - query inserted  rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:93 - query inserted 1 rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:93 - query inserted 1 rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:93 - query inserted 1 rows into the db
+2018-02-22 22:23:56 DEBUG UserDAOJDBC:93 - query inserted 1 rows into the db
+2018-02-22 22:23:56 WARN  UserDAOJDBC:100 - failed to add reimbursment
+2018-02-22 22:24:11 TRACE UserDAOJDBC:75 - Attempting to get connection to db
+2018-02-22 22:24:12 TRACE UserDAOJDBC:77 - connection established with db
+2018-02-22 22:24:12 TRACE UserDAOJDBC:82 - somehing 
+2018-02-22 22:24:12 TRACE UserDAOJDBC:89 - somehing else 
+2018-02-22 22:24:12 DEBUG UserDAOJDBC:92 - query inserted 1 rows into the db
+2018-02-22 23:16:49 TRACE UserDAOJDBC:162 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:16:50 TRACE UserDAOJDBC:164 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:16:51 WARN  UserDAOJDBC:177 - failed to login
+2018-02-22 23:19:33 TRACE UserDAOJDBC:162 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:19:34 TRACE UserDAOJDBC:164 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:19:34 WARN  UserDAOJDBC:177 - failed
+2018-02-22 23:20:34 TRACE UserDAOJDBC:162 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:20:35 TRACE UserDAOJDBC:164 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:25:11 TRACE UserDAOJDBC:162 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:25:12 TRACE UserDAOJDBC:164 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:25:19 TRACE UserDAOJDBC:162 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:25:20 TRACE UserDAOJDBC:164 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:25:29 TRACE UserDAOJDBC:162 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:25:30 TRACE UserDAOJDBC:164 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:25:57 TRACE UserDAOJDBC:162 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:25:58 TRACE UserDAOJDBC:164 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:29:52 TRACE UserDAOJDBC:162 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:29:53 TRACE UserDAOJDBC:164 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:30:38 TRACE UserDAOJDBC:187 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:30:39 TRACE UserDAOJDBC:189 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:30:39 DEBUG UserDAOJDBC:195 - query retrieved
+2018-02-22 23:30:40 WARN  UserDAOJDBC:204 - failed to login
+2018-02-22 23:32:04 TRACE UserDAOJDBC:187 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:32:05 TRACE UserDAOJDBC:189 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:32:05 DEBUG UserDAOJDBC:195 - query retrieved
+2018-02-22 23:32:05 WARN  UserDAOJDBC:204 - failed to login
+2018-02-22 23:34:42 TRACE UserDAOJDBC:187 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:34:43 TRACE UserDAOJDBC:189 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:34:44 WARN  UserDAOJDBC:204 - failed to login
+2018-02-22 23:35:39 TRACE UserDAOJDBC:187 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:35:40 TRACE UserDAOJDBC:189 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:36:04 TRACE UserDAOJDBC:187 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:36:05 TRACE UserDAOJDBC:189 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:36:40 TRACE UserDAOJDBC:187 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:36:41 TRACE UserDAOJDBC:189 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:37:21 TRACE UserDAOJDBC:163 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:37:22 TRACE UserDAOJDBC:165 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:43:24 TRACE UserDAOJDBC:163 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:43:25 TRACE UserDAOJDBC:165 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:45:32 TRACE UserDAOJDBC:113 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:45:33 TRACE UserDAOJDBC:115 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:45:51 TRACE UserDAOJDBC:113 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:45:52 TRACE UserDAOJDBC:115 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:46:38 TRACE UserDAOJDBC:113 - Attempting to get connection to db to select flashcard with id 1
+2018-02-22 23:46:40 TRACE UserDAOJDBC:115 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:49:04 TRACE UserDAOJDBC:113 - Attempting to get connection to db  with id 1
+2018-02-22 23:49:05 TRACE UserDAOJDBC:115 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:49:27 TRACE UserDAOJDBC:113 - Attempting to get connection to db  with id 1
+2018-02-22 23:49:28 TRACE UserDAOJDBC:115 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:49:42 TRACE UserDAOJDBC:113 - Attempting to get connection to db  with id 1
+2018-02-22 23:49:43 TRACE UserDAOJDBC:115 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:49:51 TRACE UserDAOJDBC:113 - Attempting to get connection to db  with id 1
+2018-02-22 23:49:52 TRACE UserDAOJDBC:115 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:50:01 TRACE UserDAOJDBC:113 - Attempting to get connection to db  with id 1
+2018-02-22 23:50:02 TRACE UserDAOJDBC:115 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:50:19 TRACE UserDAOJDBC:113 - Attempting to get connection to db  with id 2
+2018-02-22 23:50:20 TRACE UserDAOJDBC:115 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:51:09 TRACE UserDAOJDBC:138 - Attempting to get connection to db
+2018-02-22 23:51:10 TRACE UserDAOJDBC:141 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:51:10 WARN  UserDAOJDBC:159 - failed to get tickets list
+2018-02-22 23:51:30 TRACE UserDAOJDBC:138 - Attempting to get connection to db
+2018-02-22 23:51:31 TRACE UserDAOJDBC:141 - connection established with db, creating prepared Prep-statement
+2018-02-22 23:52:29 TRACE UserDAOJDBC:138 - Attempting to get connection to db
+2018-02-22 23:52:30 TRACE UserDAOJDBC:141 - connection established with db, creating prepared Prep-statement
+2018-02-23 00:12:36 TRACE ManagerDAOJDBC:37 - Attempting to get connection to db
+2018-02-23 00:12:37 TRACE ManagerDAOJDBC:40 - connection established with db
+2018-02-23 00:12:37 WARN  ManagerDAOJDBC:54 - failed to get tickets list
+2018-02-23 00:15:06 TRACE ManagerDAOJDBC:37 - Attempting to get connection to db
+2018-02-23 00:15:08 TRACE ManagerDAOJDBC:40 - connection established with db
+2018-02-23 00:15:08 WARN  ManagerDAOJDBC:54 - failed to get tickets list
+2018-02-23 00:16:18 TRACE ManagerDAOJDBC:37 - Attempting to get connection to db
+2018-02-23 00:16:19 TRACE ManagerDAOJDBC:40 - connection established with db
+2018-02-23 00:16:19 TRACE ManagerDAOJDBC:53 - updated 
+2018-02-23 11:49:12 TRACE ManagerDAOJDBC:66 - Attempting to get connection to db
+2018-02-23 11:49:14 TRACE ManagerDAOJDBC:69 - connection established with db, creating prepared Prep-statement
+2018-02-23 11:49:58 TRACE ManagerDAOJDBC:66 - Attempting to get connection to db
+2018-02-23 11:49:59 TRACE ManagerDAOJDBC:69 - connection established with db, creating prepared Prep-statement
+2018-02-23 11:50:48 TRACE ManagerDAOJDBC:66 - Attempting to get connection to db
+2018-02-23 11:50:49 TRACE ManagerDAOJDBC:69 - connection established with db, creating prepared Prep-statement
+2018-02-23 11:52:02 TRACE ManagerDAOJDBC:66 - Attempting to get connection to db
+2018-02-23 11:52:03 TRACE ManagerDAOJDBC:69 - connection established with db, creating prepared Prep-statement
+2018-02-23 11:58:06 TRACE ManagerDAOJDBC:94 - Attempting to get connection to db
+2018-02-23 11:58:07 TRACE ManagerDAOJDBC:97 - connection established with db, creating prepared Prep-statement
+2018-02-23 11:58:33 TRACE ManagerDAOJDBC:95 - Attempting to get connection to db
+2018-02-23 11:58:34 TRACE ManagerDAOJDBC:98 - connection established with db, creating prepared Prep-statement
+2018-02-25 19:14:20 TRACE ManagerDAOJDBC:95 - Attempting to get connection to db
+2018-02-25 19:14:21 TRACE ManagerDAOJDBC:98 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:05:58 TRACE ManagerDAOJDBC:95 - Attempting to get connection to db
+2018-02-25 20:06:00 TRACE ManagerDAOJDBC:98 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:07:58 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:08:00 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:08:00 WARN  ManagerDAOJDBC:86 - failed to get tickets list
+2018-02-25 20:08:18 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:08:19 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:08:20 WARN  ManagerDAOJDBC:86 - failed to get tickets list
+2018-02-25 20:10:02 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:10:03 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:11:03 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:11:04 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:28:54 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:28:55 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:28:56 WARN  ManagerDAOJDBC:86 - failed to get tickets list
+2018-02-25 20:29:26 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:29:27 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:31:23 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:31:24 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:31:24 WARN  ManagerDAOJDBC:86 - failed to get tickets list
+2018-02-25 20:31:32 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:31:33 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:31:33 WARN  ManagerDAOJDBC:86 - failed to get tickets list
+2018-02-25 20:33:36 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:33:37 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 20:33:38 WARN  ManagerDAOJDBC:86 - failed to get tickets list
+2018-02-25 20:33:41 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 20:33:42 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 21:07:16 TRACE ManagerDAOJDBC:68 - Attempting to get connection to db
+2018-02-25 21:07:17 TRACE ManagerDAOJDBC:71 - connection established with db, creating prepared Prep-statement
+2018-02-25 21:31:16 TRACE ManagerDAOJDBC:41 - Attempting to get connection to db
+2018-02-25 21:31:17 TRACE ManagerDAOJDBC:44 - connection established with db
+2018-02-25 21:31:17 TRACE ManagerDAOJDBC:56 - updated 
+2018-02-28 23:18:07 TRACE UserDAOJDBC:140 - Attempting to get connection to db
+2018-02-28 23:18:08 TRACE UserDAOJDBC:143 - connection established with db, creating prepared Prep-statement

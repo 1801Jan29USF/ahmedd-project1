@@ -1,0 +1,36 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+  <a class="navbar-brand" href="/login">Home</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04"
+    aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+
+  <div class="collapse navbar-collapse" id="navbarsExample04">
+    <ul class="navbar-nav mr-auto">
+
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/login">Login</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/reimburesment">New Ticket</a>
+      </li>
+
+      <li ngbDropdown class="d-inline-block">
+        <a class="nav-link dropdown-toggle" id="dropdownBasic1" ngbDropdownToggle>Examples</a>
+        <div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+
+          <button class="dropdown-item" routerLink="/update-tickets">update-tickets</button>
+          <button class="dropdown-item" routerLink="/view-past-tickets">view-past-tickets</button>
+          <button class="dropdown-item" routerLink="/manager-view-ticket">manager-view-ticket</button>
+          <button class="dropdown-item" routerLink="/manager-filter-tickets">manager-filter-tickets</button>
+
+
+
+        </div>
+      </li>
+    </ul>
+    <p align="center" class="navbar-text">Welcom to Revature Reimburesment System</p>
+
+  </div>
+</nav>
